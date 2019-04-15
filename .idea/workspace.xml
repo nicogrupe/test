@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05d54d24-e4c9-4968-8943-8b6764683675" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/testeando.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/testeando.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devDb2.lock.db" beforeDir="false" afterPath="$PROJECT_DIR$/devDb2.lock.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/grails-app/views/index.gsp" beforeDir="false" afterPath="$PROJECT_DIR$/grails-app/views/index.gsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="88" column="57" lean-forward="true" selection-start-line="88" selection-start-column="57" selection-end-line="88" selection-end-column="57" />
+            <state relative-caret-position="387">
+              <caret line="111" column="37" selection-start-line="111" selection-start-column="37" selection-end-line="111" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -30,7 +30,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/project/show.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="150">
               <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
             </state>
           </provider>
@@ -165,12 +165,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555341514439</updated>
-      <workItem from="1555341515838" duration="210000" />
+      <workItem from="1555341515838" duration="301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="210000" />
+    <option name="totallyTimeSpent" value="301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
@@ -242,7 +242,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/grails-app/views/project/show.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="150">
           <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
         </state>
       </provider>
@@ -252,8 +252,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="88" column="57" lean-forward="true" selection-start-line="88" selection-start-column="57" selection-end-line="88" selection-end-column="57" />
+        <state relative-caret-position="387">
+          <caret line="111" column="37" selection-start-line="111" selection-start-column="37" selection-end-line="111" selection-end-column="37" />
         </state>
       </provider>
     </entry>
