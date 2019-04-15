@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="05d54d24-e4c9-4968-8943-8b6764683675" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/devDb2.lock.db" beforeDir="false" afterPath="$PROJECT_DIR$/devDb2.lock.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grails-app/views/index.gsp" beforeDir="false" afterPath="$PROJECT_DIR$/grails-app/views/index.gsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="111" column="37" selection-start-line="111" selection-start-column="37" selection-end-line="111" selection-end-column="37" />
+            <state relative-caret-position="582">
+              <caret line="100" column="81" lean-forward="true" selection-start-line="100" selection-start-column="81" selection-end-line="100" selection-end-column="81" />
             </state>
           </provider>
         </entry>
@@ -72,56 +71,7 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="testeando" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testeando" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testeando" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testeando" type="462c0819:PsiDirectoryNode" />
-              <item name="grails-app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testeando" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testeando" type="462c0819:PsiDirectoryNode" />
-              <item name="grails-app" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testeando" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testeando" type="462c0819:PsiDirectoryNode" />
-              <item name="grails-app" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-              <item name="projecttracker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testeando" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testeando" type="462c0819:PsiDirectoryNode" />
-              <item name="grails-app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testeando" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testeando" type="462c0819:PsiDirectoryNode" />
-              <item name="grails-app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="endUser" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testeando" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testeando" type="462c0819:PsiDirectoryNode" />
-              <item name="grails-app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Grails" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,17 +94,6 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Grails: ProjectTracker" type="GrailsRunConfigurationType" factoryName="Grails">
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="passParentEnv" value="true" />
-      <setting name="grailsApplicationRoot" value="$PROJECT_DIR$" />
-      <setting name="launchBrowser" value="true" />
-      <setting name="launchBrowserUrl" value="" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -165,12 +104,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555341514439</updated>
-      <workItem from="1555341515838" duration="301000" />
+      <workItem from="1555341515838" duration="772000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="301000" />
+    <option name="totallyTimeSpent" value="772000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
@@ -252,8 +191,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="111" column="37" selection-start-line="111" selection-start-column="37" selection-end-line="111" selection-end-column="37" />
+        <state relative-caret-position="582">
+          <caret line="100" column="81" lean-forward="true" selection-start-line="100" selection-start-column="81" selection-end-line="100" selection-end-column="81" />
         </state>
       </provider>
     </entry>
